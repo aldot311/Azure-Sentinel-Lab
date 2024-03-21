@@ -29,13 +29,13 @@ As the honeypot VM exposes vulnerabilities to the internet, it swiftly becomes a
 <p align="center">
 <b>Initial Findings:</b> Snapshot of attack origins with geolocation data.
 <br />
-<img src="https://i.imgur.com/2MViSiL.jpg" height="85%" width="85%" alt="Initial attack data visualization"/>
+<img src="https://imgur.com/fI3u4YX.jpg" height="85%" width="85%" alt="Initial attack data visualization"/>
 </p>
 
 <p align="center">
 <b>24-Hour Analysis:</b> Comprehensive world map showing the distribution of attacks after 24 hours, enriched with custom geodata logs.
 <br />
-<img src="https://i.imgur.com/krRFrK5.png" height="85%" width="85%" alt="24-hour attack data analysis"/>
+<img src="https://imgur.com/RUDKcns.jpg" height="85%" width="85%" alt="24-hour attack data analysis"/>
 </p>
 
 This project underscores the importance of robust cybersecurity measures and demonstrates the utility of honeypots in understanding and mitigating cyber threats.
